@@ -35,6 +35,4 @@ public class QueueViaStack {
         shiftStacks();
         return stackOldest.peek();
     }
-
-
 }

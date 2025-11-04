@@ -7,7 +7,6 @@ public class Main {
         q.enqueue(2);
         q.enqueue(3);
         q.enqueue(4);
-
         System.out.println(q.peek());
         q.dequeue();
         System.out.println(q.peek());
